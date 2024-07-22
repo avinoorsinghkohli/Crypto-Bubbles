@@ -1,0 +1,9 @@
+data/price_data/
+data/pricebubble_data/
+data/reddit_combined/
+data/tweets/
+data/train_data_graphs_only_lookback_5_lookahead_10_stride_3/
+data/test_data_graphs_only_lookback_5_lookahead_10_stride_3/
+data/train_data_graph.tar.gz
+logs/
+saved_models/
